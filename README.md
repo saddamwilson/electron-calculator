@@ -8,7 +8,8 @@ npm start
 
 ## 构建
 ```
-npm run build:win
+windows npm run build:win
+linux npm run build:linux
 ```
 则会在项目中生成个 /计算器-win32-x64 文件夹，打开里面的 计算器.exe 即可打开计算器。
 
